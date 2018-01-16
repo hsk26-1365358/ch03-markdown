@@ -8,5 +8,8 @@ Then, in the space below, put your favorite quote in a block quote,
 and provide a link to a website that provides additional information
 about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
+> The incompetent leading the unwilling to do the unnecessary
+
+Evan Wright ([Wikipedia](https://en.wikipedia.org/wiki/Evan_Wright"></a>)).
 
 See `complete` branch for an example.
